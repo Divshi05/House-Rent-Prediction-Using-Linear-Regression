@@ -38,7 +38,7 @@ Performance measured using RMSE, MAE, and R² Score
 Residual analysis for model validation
 
 ## 📈 Results
-The Linear Regression model achieved a [insert accuracy or R² score]% accuracy in predicting rent prices. Detailed feature importance and EDA visualizations are included in the project notebook.
+The Linear Regression model secured an R² score of 0.79, accurately capturing 79% of the variance in rent price prediction. The project notebook provides comprehensive Exploratory Data Analysis (EDA) visualizations and feature importance insights, enabling clear interpretability of the model’s performance.
 
 ## 🛠️ Tech Stack
 Python 🐍
